@@ -289,7 +289,7 @@
 
 
 #### DataFrame()
-- dict를 DataFrame으로 변환하고자 할 때 DataFrame 생서앚에 전달한다.
+- dict를 DataFrame으로 변환하고자 할 때 DataFrame 생성해 전달한다.
 - 컬럼며을 추가하거나 인덱스명을 변경하는 등 다양하게 설정할 수 있다.
 
 #### read_csv()
